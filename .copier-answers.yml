@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+# Do not modify this file directly
+# To update the project using the original template, run make copier-update
+_src_path: /home/runner/work/my-py-first-from-templ1-01/my-py-first-from-templ1-01
+code_owners: '@ONSdigital'
+default_branch: main
+dependabot_open_pull_requests_limit: 10
+enable_auto_fix_workflows: true
+enable_dependabot_version_updates: true
+module_name: my_py_first_from_templ1_01
+package_manager: poetry
+repository_description: my-py-first-from-templ1-01
+repository_name: my-py-first-from-templ1-01
+repository_owner: devopseng99
+repository_visibility: public

@@ -1,6 +1,6 @@
 import pytest
 
-from {{ module_name }}.calculator import Calculator
+from my_py_first_from_templ1_01.calculator import Calculator
 
 
 @pytest.fixture()
